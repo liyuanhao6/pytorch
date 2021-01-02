@@ -1,0 +1,9 @@
+conda create -n myPytorch python=3.7 numpy matplotlib pandas jupyter notebook pytorch torchvision autopep8 torch-summary
+
+conda activate myPytorch
+
+conda install nb_conda_kernels
+
+conda install -c conda-forge jupyter_nbextensions_configurator
+
+conda install -c conda-forge jupyter_contrib_nbextensions
