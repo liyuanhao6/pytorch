@@ -4,9 +4,9 @@
 
 ### Classical network
 
-* [LeNet-5](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/LeNet%E2%88%925.ipynb)
+* [LeNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/LeNet%E2%88%925.ipynb)
 * [AlexNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/AlexNet.ipynb)
-* [VGG-16](https://github.com/liyuanhao6/pytorch/raw/master/cv/classification/VGG-16.ipynb)
+* [VGG16](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/VGG16.ipynb)
 * [ResNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/ResNet.ipynb)
 * [DenseNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/DenseNet.ipynb)
 * [GooLeNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/GoogLeNet.ipynb)
