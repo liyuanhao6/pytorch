@@ -4,7 +4,7 @@
 
 ### Classical network
 
-* [LeNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/LeNet%E2%88%925.ipynb)
+* [LeNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/LeNet.ipynb)
 * [AlexNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/AlexNet.ipynb)
 * [VGG](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/VGG.ipynb)
 * [ResNet](https://github.com/liyuanhao6/pytorch/blob/master/cv/classification/ResNet.ipynb)
